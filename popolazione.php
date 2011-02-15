@@ -1,4 +1,9 @@
 <?php
+# **************************************
+#  Author: S. Vaccaro, sergiovaccaro67@gmail.com
+#  Vers: 1.0
+#  Created on: 29/9/2006
+# **************************************
 
 class popolazione {
       

@@ -1,9 +1,9 @@
 <?php
 # **************************************
-
-
+#  Author: Vincenzo Patruno, patrunomeister@gmail.com
+#  Vers: 1.0
 # **************************************
-# Configurazione specifica per la pagina
+
 $title='Bilancio demografico e popolazione residente';
 
 $righe=array();
